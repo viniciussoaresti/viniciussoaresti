@@ -1,4 +1,4 @@
-<h1> Hey, What's up?</h1> <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50"/>
+<h1> Hey, What's up?<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50"/></h1>
 
 
 <p> My name is Vinícius and I'm a Senior Fullstack Developer, from <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13" /> <b>Pernambuco, Brasil</b>. <p>
