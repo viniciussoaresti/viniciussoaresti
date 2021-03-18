@@ -6,7 +6,7 @@
 ## About me
 
 - ✨ I've been in the programming world since 2015, mainly on my first steps at IFPE - Campus Garanhuns.
-- 📚 I'm currently learning angular, on the Avanade-DIO bootcamp!
+- 📚 I'm currently learning Angular, on the Avanade-DIO bootcamp!
 - 🎯 Goals: Being a better developer and person everyday, everytime.
 - 🎲 And ... I'm a streamer, teacher, speaker and much more!
 
