@@ -1,4 +1,4 @@
-<h1> Hello world!     <img src="https://assets.digitalocean.com/articles/vscode_php/vscode_php.gifhttps://assets.digitalocean.com/articles/vscode_php/vscode_php.gif" width="50"/></h1>
+<h1> Hello world!     <img src="https://assets.digitalocean.com/articles/vscode_php/vscode_php.gif" width="50"/></h1>
 
 
 <p> My name is Vinícius and I'm currently a Systems Analyst, at Instituto Atlântico, and I'm currently living on <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13" /> <b>Pernambuco, Brasil</b>. <p>
