@@ -1,7 +1,7 @@
 <h1> Hello world!     <img src="https://24.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif" width="50"/></h1>
 
 
-<p> My name is Vinícius and I'm currently a Systems Analyst, at Instituto Atlântico, and I'm currently living on <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13" /> <b>Pernambuco, Brasil</b>. <p>
+<p> My name is Vinícius, I'm currently a Systems Analyst, at Instituto Atlântico, and I'm currently living on <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13" /> <b>Pernambuco, Brasil</b>. <p>
 
 ## About me
 
