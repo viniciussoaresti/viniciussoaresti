@@ -1,12 +1,12 @@
 <h1> Hello world!     <img src="https://24.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif" width="50"/></h1>
 
 
-<p> My name is Vinícius, I'm currently a Systems Analyst and Team Leader, at Instituto Atlântico, and I'm currently living on <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13" /> <b>Pernambuco, Brasil</b>. <p>
+<p> My name is Vinícius, I'm currently a Systems Analyst and Team Leader, at Instituto Atlântico, and I'm currently living on <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" width="13" /> <b>Pernambuco, Brasil</b>. <p>
 
 ## About me
 
 - ✨ I've been in the programming world since 2015, mainly on my first steps at IFPE - Campus Garanhuns.
-- 📚 I'm currently learning .NET and React, on a Digital Innovation One bootcamp!
+- 📚 I'm currently learning .NET and React via online platforms!
 - 🎯 Goals: Being a better developer and person everyday, everytime.
 - 🎲 And ... I'm a streamer, speaker, and much more!
 
