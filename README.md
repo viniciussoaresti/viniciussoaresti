@@ -45,7 +45,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/viniciussoaresti/viniciussoaresti/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/viniciussoaresti/viniciussoaresti/output/snake.svg alt="Snake animation" />
 
 ###
 
