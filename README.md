@@ -1,32 +1,54 @@
-<h1> Hello world!     <img src="https://24.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif" width="50"/></h1>
+<h2 align="left">Hi👋! My name is Vinícius I'm currently a Systems Analyst at Instituto Atlântico, currently living on <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" width="13" /> Pernambuco, Brasil</h2>
 
+###
 
-<p> My name is Vinícius, I'm currently a Systems Analyst and Team Leader, at Instituto Atlântico, and I'm currently living on <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" width="13" /> <b>Pernambuco, Brasil</b>. <p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=viniciussoaresti" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=viniciussoaresti" height="150" alt="languages graph"  />
+</div>
 
-## About me
+###
 
-- ✨ I've been in the programming world since 2015, mainly on my first steps at IFPE - Campus Garanhuns.
-- 📚 I'm currently learning .NET and React via online platforms!
-- 🎯 Goals: Being a better developer and person everyday, everytime.
-- 🎲 And ... I'm a streamer, speaker, and much more!
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJjMjRiY2I2YjVkM2ZmNzk1YmY0OGNjOGU1ZjUxNzNjZjMzNDc5OCZjdD1n/J20KhwQ6sL0CGiEVrz/giphy.gif"  />
 
-## I code with
+###
 
-<img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="40px" style="margin-right: 2px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="42" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" width="42" alt="dot-net logo"  />
+</div>
 
-<img align="left" title="HTML5" alt="HTML5" width="40px" style="margin-right: 2px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+###
 
-<img align="left" title="CSS3" alt="CSS3" width="40px" style="margin-right: 2px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<div align="left">
+  <a href="viniciussoaresti@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/vsti/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="+5581989217291" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+</div>
 
-<img align="left" title="Javascript" alt="Javascript" width="40px" style="margin-right: 2px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+###
 
-<br />
-<br />
+<br clear="both">
 
-<h2> How to reach me </h2>
+<img src="https://raw.githubusercontent.com/viniciussoaresti/viniciussoaresti/blob/output/snake.svg" alt="Snake animation" />
 
-<p><a href="https://github.com/viniciussoaresti" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/vsti/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:viniciussoaresti@gmail.com" target="_blank"><img alt="Microsoft Outlook" src="https://img.shields.io/badge/Email-%230077B5.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-</p>
+###
 
-Inspired by <a href="https://github.com/maurodesouza" target="_blank">Mauro de Souza</a> :heart:
+<p align="left">Inspired by <a href="https://github.com/maurodesouza" target="_blank">Mauro de Souza</a> ❤️</p>
+
+###
