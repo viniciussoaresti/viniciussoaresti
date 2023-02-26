@@ -1,4 +1,4 @@
-<h2 align="left">Hi👋! My name is Vinícius I'm currently a Systems Analyst at Instituto Atlântico, currently living on <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" width="13" /> Pernambuco, Brasil</h2>
+<h2 align="left">Hi👋! My name is Vinícius, I'm currently a Systems Analyst at Instituto Atlântico, currently living on <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" width="13" /> Pernambuco, Brasil</h2>
 
 ###
 
