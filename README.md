@@ -42,8 +42,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/viniciussoaresti/viniciussoaresti/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <p align="left">Inspired by <a href="https://github.com/maurodesouza" target="_blank">Mauro de Souza</a> ❤️</p>
